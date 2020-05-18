@@ -1,5 +1,5 @@
 {
-  "name": "@divertiseasia/moduleserve",
+  "name": "@divertise-asia/moduleserve",
   "version": "0.9.2-alpha.1",
   "description": "Serve and transpile CommonJS modules over HTTP",
   "main": "index.js",
